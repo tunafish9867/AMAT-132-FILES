@@ -1,0 +1,26 @@
+---
+title: "Forecasting the Purchasing Power of the Peso in Davao City: Enhancing Economic Decision-Making and Planning"
+subtitle: "A Project Proposal"
+output: pdf_document
+author: "Mamerto Brina | Eric Cagay | Keisha Lorejo"
+fontsize: 11pt
+header-includes:
+  - \pagenumbering{gobble}
+---
+The researchers aim to analyze the purchasing power of the peso in Davao City, which refers to how much goods and services can be bought with the local currency. This analysis can provide valuable insights into the area's economic conditions and standard of living. It is interesting because it allows researchers and policymakers to understand how economic factors impact households' ability to afford basic necessities. By studying the purchasing power of the peso, they can gain a deeper understanding of how it changes over time, directly affecting a household's ability to maintain a comfortable lifestyle.
+
+
+From a forecasting perspective, this problem presents an opportunity to predict future trends in the purchasing power of the peso. Using techniques like time series analysis or ARIMA models, the researchers can make informed predictions about how purchasing power will evolve. This information is crucial for individuals, businesses, and policymakers to make strategic decisions related to investments, pricing, and economic policies.
+	
+
+To conduct their analysis, the researchers plan to use data obtained from the Philippine Statistics Authority (PSA). This dataset includes information on the purchasing power of the peso in Davao City from January 2018 to May 2023. The data will be collected from the official database of the Philippine Statistics Authority, which can be accessed through their website or specific data portals. It is expected to be available in a digital format, such as CSV files or spreadsheets, which can be downloaded and used for analysis.
+
+
+The expected outcome of this study is to generate forecasts for the purchasing power of the peso in Davao City from June 2023 to December 2024. By applying forecasting techniques, the researchers aim to provide reliable estimates of how the purchasing power will change in the future. This forecast will enable individuals, businesses, and policymakers to plan and adapt accordingly to the expected economic conditions.
+
+
+The outcomes of this study can benefit various stakeholders. Individuals can gain insights into the future cost of living, which can assist them in financial planning. Businesses can use forecasts to make pricing decisions and develop strategies that align with changing consumer behavior. Policymakers can leverage the findings to implement effective economic policies that support the local economy and improve the well-being of residents. Furthermore, researchers and academics in economics can use this study as a reference for further analysis, contributing to the existing body of knowledge on purchasing power dynamics.
+\newpage 
+
+
+
