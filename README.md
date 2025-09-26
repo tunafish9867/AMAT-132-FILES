@@ -73,8 +73,8 @@ generate forecasts that support better decision-making.
 
 ## 👥 Authors
 
--   **Mamerto Brina**\
--   **Eric Cagay**\
+-   **Mamerto Brina**
+-   **Eric Cagay**
 -   **Keisha Lorejo**
 
 ------------------------------------------------------------------------
